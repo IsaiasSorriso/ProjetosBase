@@ -1,0 +1,20 @@
+Repositório de Códigos Eficientes - Full Stack
+Bem-vindo ao meu repositório de códigos front-end, back-end e banco de dados! Aqui você encontrará exemplos práticos, otimizados e prontos para uso em projetos reais, abrangendo as principais tecnologias do mercado.
+
+🚀 Tecnologias Abordadas
+Front-End
+React (Componentes, Hooks, Context API)
+
+Vue (Composition API, Vuex, Vue Router)
+
+Angular (Components, Services, RxJS)
+
+Back-End
+Java (Spring Boot, JPA, REST APIs)
+
+Banco de Dados
+MySQL (Consultas, Otimizações, Transações)
+
+MongoDB (CRUD, Aggregation, Indexação)
+
+Cassandra (Modelagem, CQL, Escalabilidade)
